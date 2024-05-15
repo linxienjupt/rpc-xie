@@ -1,0 +1,3 @@
+roundRobin=com.xie.rpc.loadbalancer.RoundRobinLoadBalancer
+random=com.xie.rpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.xie.rpc.loadbalancer.ConsistentHashLoadBalancer

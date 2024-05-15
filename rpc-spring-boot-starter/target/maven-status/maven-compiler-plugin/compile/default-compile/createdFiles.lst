@@ -1,0 +1,7 @@
+com\xie\rpc\springboot\starter\annotation\EnableRpc.class
+com\xie\rpc\springboot\starter\annotation\RpcReference.class
+com\xie\rpcspringbootstarter\RpcSpringBootStarterApplication.class
+com\xie\rpc\springboot\starter\bootstrap\RpcInitBootstrap.class
+com\xie\rpc\springboot\starter\bootstrap\RpcProviderBootstrap.class
+com\xie\rpc\springboot\starter\annotation\RpcService.class
+com\xie\rpc\springboot\starter\bootstrap\RpcConsumerBootstrap.class

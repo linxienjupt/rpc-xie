@@ -1,0 +1,2 @@
+no=com.xie.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.xie.rpc.fault.retry.FixedIntervalRetryStrategy

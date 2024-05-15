@@ -1,0 +1,4 @@
+failSafe=com.xie.rpc.fault.tolerant.FailSafeTolerantStrategy
+failBack=com.xie.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.xie.rpc.fault.tolerant.FailFastTolerantStrategy
+fail0ver=com.xie.rpc.fault.tolerant.FailoverTolerantStrategy
